@@ -1,5 +1,5 @@
 # java
-# the javascript
+# The javascript
 
  you will need to know how to build web pages using HTML and CSS  Learning to program with JavaScript 
 
@@ -34,11 +34,12 @@
 
   # code
   
-   var msg = 'Sign up to receive our newsletter for 10% off!';
+    var msg = 'Sign up to receive our newsletter for 10% off!';
    
-   function updateMessage()
+    function updateMessage()
    {
-   var el = document.getElementByld('message'};
+      
+      var el = document.getElementByld('message'};
    
     el .textContent = msg;
     
